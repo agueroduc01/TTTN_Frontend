@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.switch {
+  background-color: slategrey !important;
+}
+
+.description {
+  margin: 0 auto;
+  max-width: 43.75rem;
+}
